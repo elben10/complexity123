@@ -1,6 +1,8 @@
 from setuptools import find_packages, setup
 
-docs_requirements = []
+docs_requirements = [
+    "sphinx",
+]
 
 installation_requirements = []
 
